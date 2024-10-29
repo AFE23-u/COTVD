@@ -25,4 +25,4 @@
 The package contains the implementations of two deep learning models compared by COTVD.
 
 ## Due to GitHub upload limits, the complete version is on Google Drive
-https://drive.google.com/drive/folders/1Jf7S7IXxd62DPrwQhaUjx1JOEoXtQf9Q?usp=share_link
+https://drive.google.com/drive/folders/1hOpAYKFUGXAn4YVOapJYO487F-If7PUi?usp=share_link
