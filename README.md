@@ -23,3 +23,5 @@
 ## baselines
 
 The package contains the implementations of two deep learning models compared by COTVD.
+
+## Due to GitHub upload limits, the complete version is on Google Drive
