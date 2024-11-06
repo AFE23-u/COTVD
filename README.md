@@ -2,7 +2,7 @@
 
 ## code
 
-1. joern.py: Utilize Joern to extract the target function slice.
+1. joern.py: Utilize Joern to extract the target function slice. Here we show an example of a code dependency slice extraction algorithm in the paper. [流图.pdf](https://github.com/user-attachments/files/17641179/default.pdf)
 2. rm_no_slice: Remove invalid samples.
 3. merge: Merge datasets.
 4. prompt: Generate prompts for the merged dataset.
