@@ -1,4 +1,5 @@
 # CoTVD Package
+Package for "CoTVD: A Function-Level Vulnerability Detection Framework Using Chain-of-Thought Reasoning"
 
 ## code
 
